@@ -14,7 +14,7 @@ class NetworkSecurityException(Exception):
         self.file_name, self.lineno, str(self.error_message))
         
 
-#Testing Code        
+#Testing Code         
 # if __name__=='__main__':
 #     try:
 #         logger.logging.info("Enter the try block")

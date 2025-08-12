@@ -1,2 +1,3 @@
 py -3.12 -m venv venv
 source venv/Scripts/activate
+AJzenzy5Zw1gwKgt
